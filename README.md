@@ -1,0 +1,2 @@
+# autodiag
+a
